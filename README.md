@@ -16,21 +16,5 @@ In this task a simple contact form is created. It has 3 inputs and a submit butt
 
 | Filename |
 | ------ |
-| [html](https://github.com/omphilejmatsobe/to-do-ts/blob/master/index.html)|
-| [typescript](https://github.com/omphilejmatsobe/to-do-ts/blob/master/src/todo.ts)|
-
-## ScreenShots :bookmark_tabs:
-
-## Add:
-
-![Local Image](images/1.png)
-![Local Image](images/3.png)
-## Delete:
-
-![Local Image](images/4.png)
-
-## Edit:
-
-![Local Image](images/4.png)
-![Local Image](images/6.png)
-![Local Image](images/7.png)
+| [main](https://github.com/omphilejmatsobe/reactform/tree/main/src/App.tsx)|
+| [css](https://github.com/omphilejmatsobe/reactform/tree/main/src/App.css)|
